@@ -10,3 +10,5 @@ Android boot animation assets.
 - Layout: dim readable C code on the left for LiveBoot/logcat visibility; spinning Tux on the right
 
 The installable artifact is `bootanimation.zip`.
+
+https://limewire.com/d/E3FMx#JlTpce8yFm
