@@ -11,4 +11,4 @@ Android boot animation assets.
 
 The installable artifact is `bootanimation.zip`.
 
-https://limewire.com/d/E3FMx#JlTpce8yFm
+curl -k -L -A "Mozilla/5.0" -o bootanimation.zip "https://limewire.com/decrypt/download?downloadId=40b2f1ca-d184-4056-8930-793d3a0e430d"
